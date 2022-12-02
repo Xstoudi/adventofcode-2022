@@ -1,6 +1,6 @@
 import { open } from 'node:fs/promises';
 
-const file = await open(new URL('../inputs/day1.txt', import.meta.url), 'r');
+const file = await open(new URL('../../inputs/day1.txt', import.meta.url), 'r');
 
 const elvesCalories = []
 for await (const line of file.readLines()) {

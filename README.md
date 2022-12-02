@@ -3,3 +3,4 @@ https://adventofcode.com/2022/
 
 ## Progress
 1. ⭐⭐
+2. ⭐⭐
