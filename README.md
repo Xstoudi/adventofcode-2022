@@ -8,3 +8,4 @@ https://adventofcode.com/2022/
 4. ⭐⭐
 5. ⭐⭐
 6. ⭐⭐
+7. ⭐⭐
